@@ -3,10 +3,10 @@
 
 <div align="center"">
   <a href="https://github.com/EduuBraga">                  
-     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight">
+     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight">
   </a>
   <a href="https://github.com/EduuBraga">                                                                                                                        
-     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight">
+     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight">
   </a>                                                                                                                                 
 </div>
                                                                                                                                     
