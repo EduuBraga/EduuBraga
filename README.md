@@ -1,4 +1,4 @@
-## 👋 Olá, Eu sou Eduardo, estudante de Desenvolvimento apaixonado pelo o que faz!
+## 👋 Olá, Eu sou Eduardo, estudante de Desenvolvimento Web apaixonado pelo o que faz!
 
 <p align="center">
   <a href="https://www.instagram.com/cold.dev_/"><img src="https://img.shields.io/badge/cold.dev_%20-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
@@ -7,7 +7,7 @@
 </p>
 
 ## 👨‍💻 About me
-- 👨‍💻 Eu sempre fui apaixonado por tecnologias no geral, e sempre tive curiosidade de como funcionava, junto com pensamentos que constantemente entravam na minha cabeça, como, "como isso funciona?", "Será que consigo fazer algo assim?", "deve ser muito maneiro trabalhar com isso" e aqui está eu, estudando profundamente sobre o assunto. No fundo eu sabia que isto estava predeterminado para minha vida!
+- 👨‍💻 Eu sempre fui apaixonado por tecnologias no geral, e sempre tive curiosidade de como funcionava, junto a isso vinham pensamentos constantes como, "como isso funciona?", "Será que consigo fazer algo assim?", "deve ser muito maneiro trabalhar com isso", e aqui está eu, estudando profundamente sobre o assunto. No fundo eu sabia que isto estava predeterminado para minha vida!
 - 🚀 Atualmente estou focado no Desenvolvimento Front-end com HTML5, CSS3 e JavaScript que uso para fazer aplicações web.
 - 🌱 Tenho como objetivo me tornar um desenvolvedor Full-Stack, com bastante foco na Stack JavaScript (Node, React, React Native).
 
