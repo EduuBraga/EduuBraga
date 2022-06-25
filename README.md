@@ -1,8 +1,7 @@
 ## 👋 Olá, Eu sou Eduardo, estudante de Desenvolvimento Web apaixonado pelo o que faz!
-
+###### ignora meu email, foi criado quando eu era criança e todas minhas principais contas então vinculadas a ele kkk
 <p align="center">
-  <a href="https://www.instagram.com/cold.dev_/"><img src="https://img.shields.io/badge/cold.dev_%20-E4405F?style=flat-square&logo=instagram&logoColor=white" ></a>
-  <a href="mailto:cold.developer467@gmail.com"><img src="https://img.shields.io/badge/cold.developer467@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:chocolate.blindado123@gmail.com"><img src="https://img.shields.io/badge/chocolate.blindado123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eduardo-braga-aa0aa922b/"><img src="https://img.shields.io/badge/-Eduardo%20Braga-%230077B5?style=flat-square&logo=linkedin&logoColor=white" ></a>
 </p>
 
