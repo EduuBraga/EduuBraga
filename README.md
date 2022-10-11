@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ Sobre mim
 - 🙋‍♂️ Olá, Tenho 18 anos. Adoro criar coisas, por este motivo escolhi a área de Front-End como carreira. Fazer e refazer estilos é uma das coisas que eu mais gosto, pois não tenho dificuldades em da um passo atrás, pra dar dois à frente. Desde que decide me dedicar dia após dia a programação, venho evoluindo minhas habilidades como desenvolvedor e pessoal, sempre disposto a aprender coisas novas e buscar resoluções de problemas.
-- 🌱 Atualmente estou focado na área de Front-end: ReactJS; Javascript; HTML5; CSS3; Boostrap; que uso para fazer aplicações web, mas carrego comigo a vontade de me tornar um desenvolvedor Full-Stack.
+- 🌱 Atualmente estou focado na área de Front-end: ReactJS; Javascript; HTML5; CSS3; Boostrap; Figma; que uso para fazer aplicações web, mas carrego comigo a vontade de me tornar um desenvolvedor Full-Stack.
 
 ## ⚒Tecnologias e ferramentas
 <p >
@@ -24,7 +24,7 @@
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
-## 📊 Um pouco mais sobre meu perfil
+## 📊 Estatísticas do perfil
 <div align="center">
   <a href="https://github.com/EduuBraga"> <img width="48%"src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight"></a>
   <a href="https://github.com/EduuBraga"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight"</a>            
