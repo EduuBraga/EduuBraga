@@ -4,8 +4,6 @@
 
 </div>
 
-![gifs-de-anime-lofi-1](https://user-images.githubusercontent.com/99041150/200137461-7cd7fddb-0a66-4e76-a382-b356b3a1f932.gif)
-
 <h3 align="center">Desenvolvedor Front-End</h3>
 
 </br>
@@ -58,7 +56,7 @@
 ### Um pouco sobre meu perfil
 <div>
 
-  <p align="left" > <img width="40%" src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight"></p>
+  <p align="left" > <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight"></p>
   
   <p align="center"> <img  width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight"> </p>            
   
