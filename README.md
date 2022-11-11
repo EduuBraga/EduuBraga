@@ -26,7 +26,7 @@
   <a href="https://t.me/EduBraga467">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
   </a>
-    <a href="https://eusoueduardobraga.netlify.app/">
+    <a href="https://eusoueduardobraga.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume" >
   </a>
   <a href="https://api.whatsapp.com/qr/6OZPAS6DM4EJN1?autoload=1&app_absent=0">
