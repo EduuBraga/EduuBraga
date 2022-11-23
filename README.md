@@ -1,43 +1,30 @@
-<div>
 
-  <h1 align="center"><img width="70px" src="https://user-images.githubusercontent.com/99041150/200137150-f25625c6-a91a-47a5-b2ef-d6b0f47d34b2.gif" />Olá, Eu sou Eduardo Braga! <img width="70px" src="https://user-images.githubusercontent.com/99041150/200137150-f25625c6-a91a-47a5-b2ef-d6b0f47d34b2.gif" /></h1>
-
-</div>
-
+<h1 align="center"> 👋 Olá, eu sou Eduardo Braga. </h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
-
-</br>
-
-### Sobre mim
-
-- 🎈 Apaixonado por Mangás, Animes e Jogos. 
-
-- 💻 Estudo atualmente em cursos diversos que encontro gratuitamente, mas já passei pelo <a href="https://programadorbr.com/">Programador BR</a> e 
-<a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo.</a>
-- 🚀 No momento estou me especializando em Front-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
-
-- 🌱 Atualmente estou me aprofundando na biblioteca: <b>ReactJS</b> e suas <b>Libs</b>.
 
 ### Contato:
 <p >
   <a href="https://www.linkedin.com/in/eduardo-braga-aa0aa922b/">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
-  <a href="https://t.me/EduBraga467">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
-  </a>
     <a href="https://eusoueduardobraga.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume" >
+    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white">
   </a>
   <a href="https://api.whatsapp.com/qr/6OZPAS6DM4EJN1?autoload=1&app_absent=0">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
   </a>
+  <a href="mailto:eduardo.braga467@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  </a>
 </p>
 
-- 📩 <i>E-mail:</i>  <a href="mailto:eduardo.braga467@gmail.com">eduardo.braga467@gmail.com</a>
+### Sobre mim
 
-- 🟪 <i>Discord: </i>: <b>eduu.braga_#5980</b>
+- 🙋‍♂️ Um rapaz simples e dedicado
 
+- 🚀 No momento estou me especializando em Front-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
+
+- 🌱 Atualmente estou me aprofundando na biblioteca: <b>ReactJS</b> e suas <b>Libs</b>.
 
 ### Tecnologias e ferramentas
 <p >
@@ -53,13 +40,8 @@
 </p>
 
 
-### Um pouco sobre meu perfil
-<div>
+<h3>GitHub Estatísticas</h3>
 
-  <p align="left" > <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight"></p>
-  
-  <p align="center"> <img  width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight"> </p>            
-  
-  <p align="right"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduuBraga&theme=tokyonight" alt="EduuBraga"> </p>
-  
-</div>
+Minhas estatísticas             | Principais Linguagens
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight">  |   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight">
