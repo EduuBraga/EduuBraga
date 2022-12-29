@@ -10,9 +10,6 @@
     <a href="https://eusoueduardobraga.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white">
   </a>
-  <a href="https://api.whatsapp.com/qr/6OZPAS6DM4EJN1?autoload=1&app_absent=0">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
-  </a>
   <a href="mailto:eduardo.braga467@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
