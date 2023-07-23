@@ -1,8 +1,6 @@
 
-<h1 align="center"> 👋 Olá, eu sou Eduardo Braga. </h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h1> 👋 Oi, Bem-vindo! </h1>
 
-### Contato:
 <p >
   <a href="https://www.linkedin.com/in/eduardo-braga-aa0aa922b/">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
@@ -15,15 +13,12 @@
   </a>
 </p>
 
-### Sobre mim
+### 🙋‍♂️ Sobre mim
 
-- 🙋‍♂️ Um rapaz simples e dedicado
+- Me chamo eduardo, nasci no brasil e tenho 19 anos. Um rapaz simples e dedicado. 
+- No momento estou me aprofundando em Java.
 
-- 🚀 No momento estou me especializando em Front-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
-
-- 🌱 Atualmente estou me aprofundando na biblioteca: <b>ReactJS</b> e suas <b>Libs</b>.
-
-### Tecnologias e ferramentas
+### ⚙ Skills
 <p >
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
