@@ -1,4 +1,3 @@
-
 <h1> 👋 Oi, Bem-vindo! </h1>
 
 <p >
@@ -19,21 +18,33 @@
 - No momento estou me aprofundando em Java.
 
 ### ⚙ Skills
-<p >
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="45px" src="https://user-images.githubusercontent.com/99041150/200138385-be96c992-3d53-4668-afe8-3b78cf42a2bd.png" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img width="45px" src="https://user-images.githubusercontent.com/99041150/200138469-21b60dea-469b-47b3-a6f8-6fbcc5b6cf00.png" />
+#### Linguagens e Frameworks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css," />
+  </a>
 </p>
 
+#### Ferramentas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,vite" />
+  </a>
+</p>
 
 <h3>GitHub Estatísticas</h3>
 
-Minhas estatísticas             | Principais Linguagens
-:-------------------------:|:-------------------------:
-<img src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight">  |   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight">
+<div style="display: inline_block">
+  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight">  
+  <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduuBraga&layout=compact&theme=tokyonight">
+</div>
