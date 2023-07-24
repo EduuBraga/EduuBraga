@@ -18,7 +18,7 @@
 - No momento estou me aprofundando em Java.
 
 ### ⚙ Skills
-#### Linguagens e Frameworks
+#### 👨‍💻 Linguagens e Frameworks
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
@@ -26,23 +26,23 @@
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,styledcomponents" />
   </a>
 </p>
 
-#### Ferramentas
+#### 🔧 Ferramentas
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,vite" />
   </a>
 </p>
 
-<h3>GitHub Estatísticas</h3>
+-----
 
 <div style="display: inline_block">
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=EduuBraga&show_icons=true&theme=tokyonight">  
