@@ -14,7 +14,7 @@
 
 ### 🙋‍♂️ Sobre mim
 
-- Me chamo eduardo, nasci no brasil e tenho 19 anos. Um rapaz simples e dedicado. 
+- Meu nome é Eduardo, sou natural do Brasil e tenho 19 anos. Um rapaz simples e dedicado. 
 - No momento estou me aprofundando em Java.
 
 ### ⚙ Skills
