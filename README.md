@@ -15,7 +15,7 @@
 ### 🙋‍♂️ Sobre mim
 
 - Meu nome é Eduardo, sou natural do Brasil e tenho 19 anos. Um rapaz simples e dedicado. 
-- No momento estou me aprofundando em Java.
+- No momento estou me aprofundando em Java, mas já adentrei por um bom tempo na linguagem JavaScript, seus frameworks e libs.
 
 ### ⚙ Skills
 #### 👨‍💻 Linguagens e Frameworks
