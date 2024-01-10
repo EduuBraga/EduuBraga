@@ -14,19 +14,18 @@
 
 ### 🙋‍♂️ Sobre mim
 
-- Meu nome é Eduardo, sou natural do Brasil e tenho 19 anos. Um rapaz simples e dedicado. 
-- No momento estou me aprofundando em Java, mas já adentrei por um bom tempo na linguagem JavaScript, seus frameworks e libs.
+- Meu nome é Eduardo, sou natural do Brasil e tenho 20 anos. Um rapaz simples e dedicado.
 
 ### ⚙ Skills
 #### 👨‍💻 Linguagens e Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,python" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript" />
   </a>
 </p>
 <p>
@@ -38,7 +37,7 @@
 #### 🔧 Ferramentas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=git,github,eclipse,vscode,idea,vite,figma" />
   </a>
 </p>
 
