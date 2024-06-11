@@ -25,7 +25,9 @@
 
 ### 🔧 Ferramentas
 
-![Ferramentas](https://skillicons.dev/icons?i=git,github,eclipse,vscode,idea,vite,figma)
+![Ferramentas](https://skillicons.dev/icons?i=idea,eclipse,vscode)
+
+![Ferramentas](https://skillicons.dev/icons?i=vite,maven,git)
 
 ---
 
